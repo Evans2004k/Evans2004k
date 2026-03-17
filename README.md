@@ -3,14 +3,17 @@ HI! Am Evans Mawira 😎
 Check out my portifolio https://evans2004k.github.io/evans_portifolio
 ---
 <div align="center">
+
 ## 👤About Me
 
 Currently an a Texh student with interest in:
+
 - **Mobile App Development (Flutter)**
 - **Machine Learning & AI**
 - **UI/UX Design**
 - **Creative Coding (C++ & JavaScript)**
 - **Database Systems**
+
 </div>
 
 
