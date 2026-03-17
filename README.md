@@ -62,3 +62,12 @@ You can find me via:
 
 ---
 
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Evans2004k&show_icons=true&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evans2004k&layout=donut)
+
+</div>
+
