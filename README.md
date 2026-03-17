@@ -62,12 +62,23 @@ You can find me via:
 
 ---
 
-
+## 📊 Analysis
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Evans2004k&show_icons=true&theme=dark)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evans2004k&layout=donut)
 
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Evans2004k&theme=dark)](https://git.io/streak-stats)
+
+<!-- Top Languages -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evans2004k&layout=compact&theme=dark)
+
+<!-- Trophies -->
+## GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Evans2004k&theme=radical&row=2&column=4)
+
+<!-- Dev Quote -->
+## Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
-
