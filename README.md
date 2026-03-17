@@ -70,10 +70,11 @@ You can find me via:
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Evans2004k&theme=dark)](https://git.io/streak-stats)
-</div>
+
 <!-- Top Languages -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evans2004k&layout=compact&theme=dark)
 
+</div>
 <!-- Trophies -->
 ## GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Evans2004k&theme=radical&row=2&column=4)
