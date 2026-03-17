@@ -2,6 +2,7 @@ HI! Am Evans Mawira 😎
 
 Check out my portifolio https://evans2004k.github.io/evans_portifolio
 ---
+<div align="center">
 ## 👤About Me
 
 Currently an a Texh student with interest in:
@@ -10,6 +11,9 @@ Currently an a Texh student with interest in:
 - **UI/UX Design**
 - **Creative Coding (C++ & JavaScript)**
 - **Database Systems**
+</div>
+
+
 
 You can find me via:
 <p align="center">
