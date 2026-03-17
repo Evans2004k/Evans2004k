@@ -70,7 +70,7 @@ You can find me via:
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Evans2004k&theme=dark)](https://git.io/streak-stats)
-
+</div>
 <!-- Top Languages -->
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evans2004k&layout=compact&theme=dark)
 
@@ -81,4 +81,4 @@ You can find me via:
 <!-- Dev Quote -->
 ## Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
+
